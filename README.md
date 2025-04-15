@@ -1,4 +1,5 @@
-# prueba-kivy-15-08
+# prueba-kivy-04-15
+
 Crear una aplicación móvil simple que muestre un número en pantalla y permita incrementarlo o reducirlo con botones.
 
 Requisitos:
